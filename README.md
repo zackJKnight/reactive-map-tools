@@ -1,5 +1,7 @@
-# React basic
+# A sandbox for interactive tools on a map
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [React](https://reactjs.org/) apps in minutes. Use this repo with the [React quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=react) to build and customize a new static site.
+I am exploring map control design to reduce or eliminate text entry in React map applications.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Starting here: https://www.react-simple-maps.io/docs/getting-started/
+
+https://github.com/topojson/topojson
