@@ -24,3 +24,11 @@ yarn-error.log*
 /test-results/
 /playwright-report/
 /playwright/.cache/
+package-lock.json
+dist/favicon.ico
+dist/index.html
+dist/logo192.png
+dist/logo512.png
+dist/manifest.json
+dist/robots.txt
+dist/assets/index-8015235c.js
